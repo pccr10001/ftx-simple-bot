@@ -15,5 +15,5 @@ mqtt:
   topic: ''
   clientId: ''
 market:
-- symbol: ''
-  market: ''
+  - symbol: 'COMPUSDT'
+    market: 'COMP-PERP'
