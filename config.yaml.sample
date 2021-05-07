@@ -1,0 +1,19 @@
+---
+telegram:
+  token: ''
+exchange:
+  ftx:
+    apiKey: ''
+    apiSecret: ''
+    subAccount: ''
+mqtt:
+  server: ''
+  port: 0
+  username: ''
+  password: ''
+  caFile: ''
+  topic: ''
+  clientId: ''
+market:
+- symbol: ''
+  market: ''
